@@ -1,2 +1,2 @@
 # stator
-An online static web site generator
+A single-page flat Jekyll theme
