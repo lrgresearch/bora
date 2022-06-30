@@ -5,6 +5,9 @@ description: Stator is a single-page responsive Jekyll theme. This is the most s
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
 # url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+# To use Stator as a remote theme
+# remote-theme: sblisesivdin/stator
+
 plugins:
   - jekyll-seo-tag
 
