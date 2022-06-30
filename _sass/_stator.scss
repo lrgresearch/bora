@@ -1,7 +1,7 @@
-@import url(//fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat:700);
 
 html {
-  font: 16px/1.5 Inconsolata, sans-serif;
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 @media (min-width: 30rem) {
@@ -31,7 +31,8 @@ a:hover, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Montserrat, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
   color: #111;
@@ -56,14 +57,14 @@ h1 a {
 
 h2 {
   margin-top: 2rem;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
   margin-bottom: 0.75rem;
 }
 
 @media (min-width: 30rem) {
   h2 {
     margin-top: 2.5rem;
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     margin-bottom: 1rem;
   }
 }
@@ -150,3 +151,4 @@ pre > code {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
