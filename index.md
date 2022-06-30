@@ -2,8 +2,10 @@
 layout: default
 ---
 
+![Banner](assets/sample-picture.png)
 
-[Stator](http://sblisesivdin.github.io/stator) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+
+**[Stator](http://sblisesivdin.github.io/stator)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
 
 ## Usage
 
