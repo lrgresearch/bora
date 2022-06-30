@@ -13,6 +13,6 @@ If you prefer to use Github Pages, you do not need to download it, upload files 
 
 Stator is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Stator is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
 
-Stator and the previous code where Stator is derived are distributed with MIT license.
+Stator and [the previous code](http://github.com/chibicode/solo) where Stator is derived are distributed with MIT license.
 
 
