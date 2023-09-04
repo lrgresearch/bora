@@ -7,12 +7,12 @@ layout: default
 **Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
 
 ## About
-I'm a physics engineer academic with over eighteen years of experience.
+I'm a physics engineer academic with over twenty years of experience.
 
 I'm living in Ankara, Turkey. I am married and a father of a lovely boy.
 
 ## Work
-Presently, I am working as a faculty member at [Gazi University](https://www.gazi.edu.tr). I am principal investigator of [Low-Dimensional Materials and Systems Research Group](https://lrgresearch.org) where we are working on experimental and computational investigations of low-dimensional or bulk systems with defects and impurities. 
+Presently, I am working as a faculty member at [Gazi University](https://www.gazi.edu.tr). I am the principal investigator of [Low-Dimensional Materials and Systems Research Group](https://lrgresearch.org) where we are working on experimental and computational investigations of low-dimensional or bulk systems with defects and impurities. 
 
 More information from [personal (Avesis) page](https://avesis.gazi.edu.tr/bora) given by my university:
 * [Publications](https://avesis.gazi.edu.tr/bora/publications)
@@ -26,7 +26,7 @@ Also, you may be interested to see my [OrcID](https://orcid.org/0000-0001-9635-6
 
 ## Some links
 - [LRG](https://lrgresearch.org) - Low-Dimensional Materials and Systems Research Group.
-- [gpaw-tools](http://www.lrgresearch.org/gpaw-tools/) - Collection of python scripts that use ASE and GPAW for performing Density Functional Theory (DFT) calculations. I am the lead developer.
+- [gpaw-tools](http://www.lrgresearch.org/gpaw-tools/) - Collection of Python scripts that use ASE and GPAW for performing Density Functional Theory (DFT) calculations. I am the lead developer.
 - [Aestimo 1D](http://www.aestimosolver.org/) - Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. I am one of the main developers.
 - [Biscuit](https://sblisesivdin.github.io/biscuit/)- Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. I am the maintainer of this theme.
 
